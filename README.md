@@ -37,10 +37,10 @@ O dashboard foi projetado para ser **clean e minimalista**, garantindo uma exper
 
 ## 📸 Capturas de Tela  
 ### Dashboard Principal  
-![Dashboard](link-da-imagem-aqui)  
+![Dashboard](dash.png)  
 
 ### Tabela de Transações  
-![Transações](link-da-imagem-aqui)  
+![Transações](data.png)  
 
 ## 🏆 Aprendizados  
 Durante o desenvolvimento, pude:  
