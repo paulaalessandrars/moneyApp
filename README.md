@@ -35,7 +35,7 @@ O dashboard foi projetado para ser **clean e minimalista**, garantindo uma exper
 ## 📈 Tecnologias Utilizadas  
 - **Excel**: Gráficos, tabelas dinâmicas e formatação condicional.  
 
-## 📸 Capturas de Tela  
+## 📸 Como ficou 
 ### Dashboard Principal  
 ![Dashboard](dash.png)  
 
